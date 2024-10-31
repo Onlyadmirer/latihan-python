@@ -1,0 +1,8 @@
+ID : 10
+NAMA :  akmal
+POSISI  : manajer
+Gaji : 4000
+ID : 11
+NAMA :  doni
+POSISI  : anggota
+Gaji : 3000
